@@ -5,7 +5,29 @@
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
 
+
+
+# **Naive Bayes**  
+
+## 01. Email Classifier
+
+  In this project, I've used Naive Bayes implementation on several different datasets. By reporting the accuracy of the classifier, it can be found which datasets are harder to distinguish. 
+
   
+### Project Goals:
+  
+- How difficult it is to distinguish the difference between emails about hockey and emails about baseball?
+- How hard is it to tell the difference between emails about hockey and emails about tech? 
+- Building an email classifier that classifies emails containing conflicting political issues (Policts_guns, Middle East, Religions)
+
+
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Bayesian-Machine-Learning/blob/master/email_classifier_model.ipynb)
+
+
+
+
+
+
 
 
 # **Bayes Theorem**  
@@ -20,3 +42,8 @@
 
 
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Bayesian-Machine-Learning/blob/master/MCQ_grading(Bayes).ipynb)
+
+
+
+
+
